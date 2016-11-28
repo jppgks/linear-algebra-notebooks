@@ -1,2 +1,2 @@
 # Linear Algebra notebooks
-Things I wrote while studying for the Linear Algebra course in my curriculum.
+Stuff I wrote while studying for the Linear Algebra course in my curriculum.
